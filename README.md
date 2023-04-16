@@ -31,6 +31,7 @@ the book information.
 **✓ Staff Maintenance Module:** -This module allows admin to Add admin can add a 
 new staff. View can check the entire existing librarian in library. Edit can edit the 
 librarian information such as phone number and Email.
+
 **✓ Issued & Return Maintenance Module:** - This Module i.e., Search can check the 
 entire existing book in library and display the records Manually in Textboxes & 
 Taking a issued/return Dates.
